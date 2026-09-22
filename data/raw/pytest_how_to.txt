@@ -1,0 +1,40 @@
+Source URL: https://docs.pytest.org/en/stable/how-to/
+Retrieved: 2026-09-22T21:11:21.855787
+
+How-to guides
+¶
+Core pytest functionality
+¶
+How to invoke pytest
+How to write and report assertions in tests
+How to use fixtures
+How to mark test functions with attributes
+How to parametrize fixtures and test functions
+How to use subtests
+How to use temporary directories and files in tests
+How to monkeypatch/mock modules and environments
+How to run doctests
+How to re-run failed tests and maintain state between test runs
+Test output and outcomes
+¶
+How to handle test failures
+Managing pytest’s output
+How to manage logging
+How to capture stdout/stderr output
+How to capture warnings
+How to use skip and xfail to deal with tests that cannot succeed
+Plugins
+¶
+How to install and use plugins
+Writing plugins
+Writing hook functions
+pytest and other test systems
+¶
+How to use pytest with an existing test suite
+How to use
+unittest
+-based tests with pytest
+How to implement xunit-style set-up
+pytest development environment
+¶
+How to set up bash completion
